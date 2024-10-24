@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35303.130
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sparen", "sparen\sparen.csproj", "{4EA03D2F-7299-4E34-95AA-4789F5430F36}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4EA03D2F-7299-4E34-95AA-4789F5430F36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EA03D2F-7299-4E34-95AA-4789F5430F36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EA03D2F-7299-4E34-95AA-4789F5430F36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EA03D2F-7299-4E34-95AA-4789F5430F36}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {08B940CC-7C7D-4A23-BCA8-1FE2A97BAD81}
+	EndGlobalSection
+EndGlobal
